@@ -3,7 +3,7 @@
 # (generic pytorch-cu128 wheels don't support Orin's sm_87 GPU).
 
 [build-system]
-requires = ["setuptools>=67", "wheel", "pip"]
+requires = ["setuptools>=82.0.1", "wheel", "pip"]
 build-backend = "setuptools.build_meta"
 
 [project]
