@@ -14,7 +14,7 @@
     "dependencies": {
         "@openclawdsolana/core": "workspace:*",
         "@openclawdsolana/wallet-evm": "workspace:*",
-        "axios": "1.9.0",
+        "axios": "1.15.2",
         "viem": "catalog:",
         "zod": "catalog:"
     },
