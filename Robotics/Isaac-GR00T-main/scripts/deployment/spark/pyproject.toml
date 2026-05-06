@@ -2,7 +2,7 @@
 # This is a self-contained config with no platform markers needed.
 
 [build-system]
-requires = ["setuptools>=67", "wheel", "pip"]
+requires = ["setuptools>=82.0.1", "wheel", "pip"]
 build-backend = "setuptools.build_meta"
 
 [project]
