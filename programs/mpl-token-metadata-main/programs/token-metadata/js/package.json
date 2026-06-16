@@ -61,7 +61,7 @@
     "@typescript-eslint/eslint-plugin": "^5.44.0",
     "@typescript-eslint/parser": "^5.44.0",
     "cpr": "^3.0.1",
-    "esbuild": "0.25.0",
+    "esbuild": "0.28.1",
     "esbuild-runner": "^2.2.1",
     "eslint": "^8.3.0",
     "eslint-config-prettier": "^8.5.0",
