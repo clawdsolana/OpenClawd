@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/node": "^20.17.19",
     "builtin-modules": "^3.3.0",
-    "esbuild": "^0.25.0",
+    "esbuild": "^0.28.1",
     "obsidian": "^1.8.7",
     "typescript": "^5.9.3"
   }
