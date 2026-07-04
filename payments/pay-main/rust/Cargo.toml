@@ -63,7 +63,7 @@ opentelemetry-otlp = { version = "0.31", default-features = false, features = [
     "trace",
 ] }
 opentelemetry-semantic-conventions = "0.31"
-opentelemetry_sdk = "0.31"
+opentelemetry_sdk = "0.32"
 
 # Configuration
 figment = { version = "0.10", features = ["toml", "env"] }
