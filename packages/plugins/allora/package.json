@@ -14,7 +14,7 @@
     "dependencies": {
         "@openclawdsolana/core": "workspace:*",
         "zod": "catalog:",
-        "axios": "1.16.0"
+        "axios": "1.18.0"
     },
     "peerDependencies": {
         "@openclawdsolana/core": "workspace:*"

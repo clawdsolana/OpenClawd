@@ -90,7 +90,7 @@
     "esno": "4.8.0",
     "express": "5.1.0",
     "glob": "11.1.0",
-    "markdown-it": "14.1.1",
+    "markdown-it": "14.2.0",
     "markdown-it-anchor": "9.2.0",
     "markdownlint-cli": "0.44.0",
     "memlab": "1.1.57",
